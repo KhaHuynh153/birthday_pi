@@ -109,7 +109,7 @@
     }
     .grid{
       display:grid;
-      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      grid-template-columns:repeat(2, minmax(220px, 1fr));
       gap:12px;
     }
     .item{
@@ -128,6 +128,9 @@
       font-weight:700;
       word-break:break-word;
     }
+    .item.full-row{
+      grid-column: 1 / 2;
+    }
     .not-found{
       border:1px solid #fed7aa;
       background:#fff7ed;
@@ -145,6 +148,7 @@
       font-size:13px;
       color:var(--muted);
     }
+
     code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
   </style>
 </head>
@@ -154,7 +158,7 @@
       <h1>Tìm ngày sinh trong ma trận 50 × 100 của số π</h1>
       <p class="sub">
         Nhập ngày sinh theo dạng <strong>dd/mm</strong> hoặc <strong>d/m</strong>.
-        Hệ thống sẽ tra cứu theo dữ liệu đã tính sẵn và trả về chuỗi tìm được, vị trí bắt đầu, vị trí kết thúc và hướng tìm.
+        Hệ thống sẽ tra cứu theo dữ liệu đã tính sẵn và trả về chuỗi tìm được, vị trí bắt đầu và hướng tìm.
       </p>
     </div>
 
@@ -168,9 +172,6 @@
           <button id="searchBtn">Tìm kiếm</button>
         </div>
       </div>
-      <div class="hint">
-        File dữ liệu mặc định: <code>results.json</code>. Hãy đặt file này cùng thư mục với <code>index.html</code>.
-      </div>
       <div id="status" class="status">Đang nạp dữ liệu…</div>
     </div>
 
@@ -180,7 +181,7 @@
     </div>
 
     <div class="footer">
-      Website tĩnh, có thể triển khai miễn phí bằng GitHub Pages.
+      Website làm bằng GitHub Pages. Tác giả: Huỳnh Văn Kha.
     </div>
   </div>
 
@@ -217,40 +218,36 @@
       }
     }
 
-    function renderFound(record){
-      return `
-        <div class="grid">
-          <div class="item">
-            <div class="k">Ngày tháng</div>
-            <div class="v">${record.ngay_thang_ddmm.slice(0,2)}/${record.ngay_thang_ddmm.slice(2,4)}</div>
-          </div>
-          <div class="item">
-            <div class="k">Chuỗi tìm được</div>
-            <div class="v">${record.chuoi_tim_duoc || ""}</div>
-          </div>
-          <div class="item">
-            <div class="k">Dòng bắt đầu</div>
-            <div class="v">${record.dong_bat_dau}</div>
-          </div>
-          <div class="item">
-            <div class="k">Cột bắt đầu</div>
-            <div class="v">${record.cot_bat_dau}</div>
-          </div>
-          <div class="item">
-            <div class="k">Dòng kết thúc</div>
-            <div class="v">${record.dong_ket_thuc}</div>
-          </div>
-          <div class="item">
-            <div class="k">Cột kết thúc</div>
-            <div class="v">${record.cot_ket_thuc}</div>
-          </div>
-          <div class="item">
-            <div class="k">Hướng tìm</div>
-            <div class="v">${record.huong_tim}</div>
-          </div>
+  function renderFound(record){
+    return `
+      <div class="grid">
+        <div class="item">
+          <div class="k">Ngày tháng</div>
+          <div class="v">${record.ngay_thang_ddmm.slice(0,2)}/${record.ngay_thang_ddmm.slice(2,4)}</div>
         </div>
-      `;
-    }
+
+        <div class="item">
+          <div class="k">Chuỗi tìm được</div>
+          <div class="v">${record.chuoi_tim_duoc || ""}</div>
+        </div>
+
+        <div class="item">
+          <div class="k">Dòng bắt đầu</div>
+          <div class="v">${record.dong_bat_dau}</div>
+        </div>
+
+        <div class="item">
+          <div class="k">Cột bắt đầu</div>
+          <div class="v">${record.cot_bat_dau}</div>
+        </div>
+
+        <div class="item">
+          <div class="k">Hướng tìm</div>
+          <div class="v">${record.huong_tim}</div>
+        </div>
+      </div>
+    `;
+  }
 
     function renderNotFound(record){
       return `
