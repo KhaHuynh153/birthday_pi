@@ -197,7 +197,7 @@
       const month = Number(parts[1]);
       if(!Number.isInteger(day) || !Number.isInteger(month)) throw new Error("Ngày tháng không hợp lệ.");
       if(month < 1 || month > 12) throw new Error("Tháng phải từ 1 đến 12.");
-      const maxDays = new Date(2025, month, 0).getDate();
+      const maxDays = new Date(2024, month, 0).getDate();
       if(day < 1 || day > maxDays) throw new Error("Ngày không hợp lệ.");
       const dd = String(day).padStart(2, "0");
       const mm = String(month).padStart(2, "0");
@@ -208,11 +208,11 @@
       const status = document.getElementById("status");
       try{
         const res = await fetch("./results.json", { cache: "no-store" });
-        if(!res.ok) throw new Error("Không đọc được file results.json");
+        if(!res.ok) throw new Error("Không đọc được dữ liệu");
         const data = await res.json();
         recordsMap = new Map(data.map(item => [item.ngay_thang_ddmm, item]));
         dataLoaded = true;
-        status.textContent = `Đã nạp ${data.length} ngày hợp lệ từ results.json`;
+        status.textContent = `Đã nạp dữ liệu`;
       }catch(err){
         status.textContent = `Lỗi nạp dữ liệu: ${err.message}`;
       }
