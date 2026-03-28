@@ -531,6 +531,15 @@
     "huong_tim": "NGANG"
   },
   {
+    "ngay_thang_ddmm": "2902",
+    "chuoi_tim_duoc": "2902",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "17",
+    "huong_tim": "NGANG"
+  },
+  {
     "ngay_thang_ddmm": "0103",
     "chuoi_tim_duoc": "103",
     "dong_bat_dau": "35",
