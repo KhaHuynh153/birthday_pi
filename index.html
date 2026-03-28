@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tìm ngày sinh trong ma trận số pi</title>
+  <style>
+    :root{
+      --bg:#f7f8fc;
+      --card:#ffffff;
+      --text:#1f2937;
+      --muted:#6b7280;
+      --accent:#2563eb;
+      --ok:#166534;
+      --warn:#92400e;
+      --border:#e5e7eb;
+      --shadow:0 8px 24px rgba(0,0,0,.08);
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:Arial, Helvetica, sans-serif;
+      background:linear-gradient(180deg,#eef4ff 0%, var(--bg) 100%);
+      color:var(--text);
+    }
+    .wrap{
+      max-width:900px;
+      margin:0 auto;
+      padding:32px 20px 48px;
+    }
+    .hero{
+      text-align:center;
+      margin-bottom:24px;
+    }
+    h1{
+      margin:0 0 10px;
+      font-size:32px;
+      line-height:1.2;
+    }
+    .sub{
+      color:var(--muted);
+      font-size:16px;
+      margin:0 auto;
+      max-width:700px;
+    }
+    .card{
+      background:var(--card);
+      border:1px solid var(--border);
+      border-radius:20px;
+      box-shadow:var(--shadow);
+      padding:24px;
+      margin-top:20px;
+    }
+    .row{
+      display:flex;
+      gap:12px;
+      flex-wrap:wrap;
+      align-items:end;
+    }
+    .field{
+      flex:1 1 260px;
+    }
+    label{
+      display:block;
+      font-weight:700;
+      margin-bottom:8px;
+    }
+    input{
+      width:100%;
+      padding:14px 16px;
+      border:1px solid #cbd5e1;
+      border-radius:14px;
+      font-size:18px;
+      outline:none;
+    }
+    input:focus{
+      border-color:var(--accent);
+      box-shadow:0 0 0 4px rgba(37,99,235,.12);
+    }
+    button{
+      padding:14px 20px;
+      border:none;
+      border-radius:14px;
+      background:var(--accent);
+      color:white;
+      font-size:16px;
+      font-weight:700;
+      cursor:pointer;
+      min-width:170px;
+    }
+    button:hover{filter:brightness(.97)}
+    .hint{
+      color:var(--muted);
+      margin-top:10px;
+      font-size:14px;
+    }
+    .status{
+      margin-top:16px;
+      padding:12px 14px;
+      border-radius:12px;
+      background:#eff6ff;
+      color:#1e3a8a;
+      border:1px solid #bfdbfe;
+      font-size:14px;
+    }
+    .result-title{
+      margin:0 0 16px;
+      font-size:22px;
+    }
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:12px;
+    }
+    .item{
+      border:1px solid var(--border);
+      border-radius:16px;
+      padding:14px 16px;
+      background:#fafafa;
+    }
+    .item .k{
+      font-size:13px;
+      color:var(--muted);
+      margin-bottom:6px;
+    }
+    .item .v{
+      font-size:18px;
+      font-weight:700;
+      word-break:break-word;
+    }
+    .not-found{
+      border:1px solid #fed7aa;
+      background:#fff7ed;
+      color:var(--warn);
+      padding:16px;
+      border-radius:14px;
+    }
+    .footer{
+      text-align:center;
+      color:var(--muted);
+      font-size:13px;
+      margin-top:24px;
+    }
+    .small{
+      font-size:13px;
+      color:var(--muted);
+    }
+    code{background:#f3f4f6;padding:2px 6px;border-radius:6px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <h1>Tìm ngày sinh trong ma trận 50 × 100 của số π</h1>
+      <p class="sub">
+        Nhập ngày sinh theo dạng <strong>dd/mm</strong> hoặc <strong>d/m</strong>.
+        Hệ thống sẽ tra cứu theo dữ liệu đã tính sẵn và trả về chuỗi tìm được, vị trí bắt đầu, vị trí kết thúc và hướng tìm.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="row">
+        <div class="field">
+          <label for="birthday">Ngày sinh</label>
+          <input id="birthday" type="text" placeholder="Ví dụ: 07/09 hoặc 7/9" />
+        </div>
+        <div>
+          <button id="searchBtn">Tìm kiếm</button>
+        </div>
+      </div>
+      <div class="hint">
+        File dữ liệu mặc định: <code>results.json</code>. Hãy đặt file này cùng thư mục với <code>index.html</code>.
+      </div>
+      <div id="status" class="status">Đang nạp dữ liệu…</div>
+    </div>
+
+    <div class="card" id="resultCard" style="display:none;">
+      <h2 class="result-title">Kết quả</h2>
+      <div id="resultContent"></div>
+    </div>
+
+    <div class="footer">
+      Website tĩnh, có thể triển khai miễn phí bằng GitHub Pages.
+    </div>
+  </div>
+
+  <script>
+    let recordsMap = new Map();
+    let dataLoaded = false;
+
+    function normalizeBirthday(input){
+      const raw = input.trim().replace(/[-.\s]+/g, "/");
+      const parts = raw.split("/");
+      if(parts.length !== 2) throw new Error("Vui lòng nhập theo dạng dd/mm.");
+      const day = Number(parts[0]);
+      const month = Number(parts[1]);
+      if(!Number.isInteger(day) || !Number.isInteger(month)) throw new Error("Ngày tháng không hợp lệ.");
+      if(month < 1 || month > 12) throw new Error("Tháng phải từ 1 đến 12.");
+      const maxDays = new Date(2025, month, 0).getDate();
+      if(day < 1 || day > maxDays) throw new Error("Ngày không hợp lệ.");
+      const dd = String(day).padStart(2, "0");
+      const mm = String(month).padStart(2, "0");
+      return { day, month, ddmm: `${dd}${mm}`, display: `${dd}/${mm}` };
+    }
+
+    async function loadData(){
+      const status = document.getElementById("status");
+      try{
+        const res = await fetch("./results.json", { cache: "no-store" });
+        if(!res.ok) throw new Error("Không đọc được file results.json");
+        const data = await res.json();
+        recordsMap = new Map(data.map(item => [item.ngay_thang_ddmm, item]));
+        dataLoaded = true;
+        status.textContent = `Đã nạp ${data.length} ngày hợp lệ từ results.json`;
+      }catch(err){
+        status.textContent = `Lỗi nạp dữ liệu: ${err.message}`;
+      }
+    }
+
+    function renderFound(record){
+      return `
+        <div class="grid">
+          <div class="item">
+            <div class="k">Ngày tháng</div>
+            <div class="v">${record.ngay_thang_ddmm.slice(0,2)}/${record.ngay_thang_ddmm.slice(2,4)}</div>
+          </div>
+          <div class="item">
+            <div class="k">Chuỗi tìm được</div>
+            <div class="v">${record.chuoi_tim_duoc || ""}</div>
+          </div>
+          <div class="item">
+            <div class="k">Dòng bắt đầu</div>
+            <div class="v">${record.dong_bat_dau}</div>
+          </div>
+          <div class="item">
+            <div class="k">Cột bắt đầu</div>
+            <div class="v">${record.cot_bat_dau}</div>
+          </div>
+          <div class="item">
+            <div class="k">Dòng kết thúc</div>
+            <div class="v">${record.dong_ket_thuc}</div>
+          </div>
+          <div class="item">
+            <div class="k">Cột kết thúc</div>
+            <div class="v">${record.cot_ket_thuc}</div>
+          </div>
+          <div class="item">
+            <div class="k">Hướng tìm</div>
+            <div class="v">${record.huong_tim}</div>
+          </div>
+        </div>
+      `;
+    }
+
+    function renderNotFound(record){
+      return `
+        <div class="not-found">
+          Không tìm thấy ngày <strong>${record.ngay_thang_ddmm.slice(0,2)}/${record.ngay_thang_ddmm.slice(2,4)}</strong>
+          trong dữ liệu đã tính sẵn.
+          <div class="small" style="margin-top:8px;">Hướng tìm: ${record.huong_tim || "KHONG_TIM_THAY"}</div>
+        </div>
+      `;
+    }
+
+    function doSearch(){
+      const resultCard = document.getElementById("resultCard");
+      const resultContent = document.getElementById("resultContent");
+      const status = document.getElementById("status");
+      resultCard.style.display = "block";
+
+      try{
+        if(!dataLoaded) throw new Error("Dữ liệu chưa nạp xong.");
+        const parsed = normalizeBirthday(document.getElementById("birthday").value);
+        const record = recordsMap.get(parsed.ddmm);
+        if(!record){
+          resultContent.innerHTML = `<div class="not-found">Không có bản ghi cho ngày ${parsed.display}.</div>`;
+          return;
+        }
+        if(record.huong_tim === "KHONG_TIM_THAY"){
+          resultContent.innerHTML = renderNotFound(record);
+        }else{
+          resultContent.innerHTML = renderFound(record);
+        }
+        status.textContent = `Đã tra cứu ngày ${parsed.display}`;
+      }catch(err){
+        resultContent.innerHTML = `<div class="not-found">${err.message}</div>`;
+      }
+    }
+
+    document.getElementById("searchBtn").addEventListener("click", doSearch);
+    document.getElementById("birthday").addEventListener("keydown", (e) => {
+      if(e.key === "Enter") doSearch();
+    });
+
+    loadData();
+  </script>
+</body>
+</html>

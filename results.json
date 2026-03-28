@@ -1,0 +1,3287 @@
+[
+  {
+    "ngay_thang_ddmm": "0101",
+    "chuoi_tim_duoc": "0101",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "63",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "66",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0201",
+    "chuoi_tim_duoc": "201",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0301",
+    "chuoi_tim_duoc": "0301",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0401",
+    "chuoi_tim_duoc": "401",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "98",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "100",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0501",
+    "chuoi_tim_duoc": "501",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "46",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0601",
+    "chuoi_tim_duoc": "601",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0701",
+    "chuoi_tim_duoc": "701",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "67",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "69",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0801",
+    "chuoi_tim_duoc": "801",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0901",
+    "chuoi_tim_duoc": "0901",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "58",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "61",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1001",
+    "chuoi_tim_duoc": "101",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "55",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1101",
+    "chuoi_tim_duoc": "1101",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "80",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "83",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1201",
+    "chuoi_tim_duoc": "1201",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1301",
+    "chuoi_tim_duoc": "131",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1401",
+    "chuoi_tim_duoc": "1401",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "54",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1501",
+    "chuoi_tim_duoc": "1501",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "43",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "46",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1601",
+    "chuoi_tim_duoc": "161",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "17",
+    "cot_ket_thuc": "13",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1701",
+    "chuoi_tim_duoc": "171",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "43",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1801",
+    "chuoi_tim_duoc": "181",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "31",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1901",
+    "chuoi_tim_duoc": "191",
+    "dong_bat_dau": "20",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2001",
+    "chuoi_tim_duoc": "201",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2101",
+    "chuoi_tim_duoc": "211",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "96",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2201",
+    "chuoi_tim_duoc": "221",
+    "dong_bat_dau": "18",
+    "cot_bat_dau": "37",
+    "dong_ket_thuc": "18",
+    "cot_ket_thuc": "39",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2301",
+    "chuoi_tim_duoc": "231",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "37",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "39",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2401",
+    "chuoi_tim_duoc": "2401",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "100",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2501",
+    "chuoi_tim_duoc": "2501",
+    "dong_bat_dau": "44",
+    "cot_bat_dau": "70",
+    "dong_ket_thuc": "44",
+    "cot_ket_thuc": "73",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2601",
+    "chuoi_tim_duoc": "2601",
+    "dong_bat_dau": "21",
+    "cot_bat_dau": "65",
+    "dong_ket_thuc": "21",
+    "cot_ket_thuc": "68",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2701",
+    "chuoi_tim_duoc": "2701",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "66",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "69",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2801",
+    "chuoi_tim_duoc": "2801",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "17",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2901",
+    "chuoi_tim_duoc": "291",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "34",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3001",
+    "chuoi_tim_duoc": "3001",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "73",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3101",
+    "chuoi_tim_duoc": "311",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0102",
+    "chuoi_tim_duoc": "102",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "66",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0202",
+    "chuoi_tim_duoc": "202",
+    "dong_bat_dau": "16",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "16",
+    "cot_ket_thuc": "16",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0302",
+    "chuoi_tim_duoc": "0302",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "15",
+    "cot_ket_thuc": "42",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0402",
+    "chuoi_tim_duoc": "402",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "68",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "70",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0502",
+    "chuoi_tim_duoc": "502",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "32",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "34",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0602",
+    "chuoi_tim_duoc": "602",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "91",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0702",
+    "chuoi_tim_duoc": "0702",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0802",
+    "chuoi_tim_duoc": "802",
+    "dong_bat_dau": "20",
+    "cot_bat_dau": "93",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0902",
+    "chuoi_tim_duoc": "0902",
+    "dong_bat_dau": "21",
+    "cot_bat_dau": "74",
+    "dong_ket_thuc": "21",
+    "cot_ket_thuc": "77",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1002",
+    "chuoi_tim_duoc": "102",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "66",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1102",
+    "chuoi_tim_duoc": "112",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "10",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "12",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1202",
+    "chuoi_tim_duoc": "122",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "84",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "86",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1302",
+    "chuoi_tim_duoc": "1302",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "32",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1402",
+    "chuoi_tim_duoc": "1402",
+    "dong_bat_dau": "46",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "46",
+    "cot_ket_thuc": "42",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1502",
+    "chuoi_tim_duoc": "152",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1602",
+    "chuoi_tim_duoc": "162",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1702",
+    "chuoi_tim_duoc": "1702",
+    "dong_bat_dau": "38",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "38",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1802",
+    "chuoi_tim_duoc": "1802",
+    "dong_bat_dau": "37",
+    "cot_bat_dau": "65",
+    "dong_ket_thuc": "37",
+    "cot_ket_thuc": "68",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1902",
+    "chuoi_tim_duoc": "192",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "76",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "78",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2002",
+    "chuoi_tim_duoc": "202",
+    "dong_bat_dau": "16",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "16",
+    "cot_ket_thuc": "16",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2102",
+    "chuoi_tim_duoc": "212",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "12",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "14",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2202",
+    "chuoi_tim_duoc": "222",
+    "dong_bat_dau": "18",
+    "cot_bat_dau": "36",
+    "dong_ket_thuc": "18",
+    "cot_ket_thuc": "38",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2302",
+    "chuoi_tim_duoc": "232",
+    "dong_bat_dau": "18",
+    "cot_bat_dau": "84",
+    "dong_ket_thuc": "18",
+    "cot_ket_thuc": "86",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2402",
+    "chuoi_tim_duoc": "242",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "9",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "11",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2502",
+    "chuoi_tim_duoc": "252",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "23",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "25",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2602",
+    "chuoi_tim_duoc": "2602",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2702",
+    "chuoi_tim_duoc": "272",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "78",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "80",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2802",
+    "chuoi_tim_duoc": "282",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "13",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "15",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0103",
+    "chuoi_tim_duoc": "103",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "87",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "89",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0203",
+    "chuoi_tim_duoc": "0203",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "31",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "34",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0303",
+    "chuoi_tim_duoc": "303",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0403",
+    "chuoi_tim_duoc": "0403",
+    "dong_bat_dau": "48",
+    "cot_bat_dau": "76",
+    "dong_ket_thuc": "48",
+    "cot_ket_thuc": "79",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0503",
+    "chuoi_tim_duoc": "503",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "38",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "40",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0603",
+    "chuoi_tim_duoc": "603",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "66",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0703",
+    "chuoi_tim_duoc": "703",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "8",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "10",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0803",
+    "chuoi_tim_duoc": "803",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "85",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "87",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0903",
+    "chuoi_tim_duoc": "903",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "57",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "59",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1003",
+    "chuoi_tim_duoc": "103",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "87",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "89",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1103",
+    "chuoi_tim_duoc": "1103",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1203",
+    "chuoi_tim_duoc": "123",
+    "dong_bat_dau": "20",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1303",
+    "chuoi_tim_duoc": "133",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "82",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "84",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1403",
+    "chuoi_tim_duoc": "143",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "17",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1503",
+    "chuoi_tim_duoc": "1503",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "37",
+    "dong_ket_thuc": "15",
+    "cot_ket_thuc": "40",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1603",
+    "chuoi_tim_duoc": "1603",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "10",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1703",
+    "chuoi_tim_duoc": "173",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "31",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1803",
+    "chuoi_tim_duoc": "183",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "91",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1903",
+    "chuoi_tim_duoc": "193",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2003",
+    "chuoi_tim_duoc": "203",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2103",
+    "chuoi_tim_duoc": "213",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "81",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "83",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2203",
+    "chuoi_tim_duoc": "2203",
+    "dong_bat_dau": "20",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "14",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2303",
+    "chuoi_tim_duoc": "2303",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "43",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "46",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2403",
+    "chuoi_tim_duoc": "243",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "57",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "59",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2503",
+    "chuoi_tim_duoc": "253",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "92",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2603",
+    "chuoi_tim_duoc": "263",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "16",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2703",
+    "chuoi_tim_duoc": "2703",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "10",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2803",
+    "chuoi_tim_duoc": "2803",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "84",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "87",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2903",
+    "chuoi_tim_duoc": "293",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "72",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "74",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3003",
+    "chuoi_tim_duoc": "3003",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "59",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "62",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3103",
+    "chuoi_tim_duoc": "313",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "59",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "61",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0104",
+    "chuoi_tim_duoc": "0104",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "19",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "22",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0204",
+    "chuoi_tim_duoc": "204",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "75",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "77",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0304",
+    "chuoi_tim_duoc": "0304",
+    "dong_bat_dau": "45",
+    "cot_bat_dau": "60",
+    "dong_ket_thuc": "45",
+    "cot_ket_thuc": "63",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0404",
+    "chuoi_tim_duoc": "0404",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "72",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "75",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0504",
+    "chuoi_tim_duoc": "504",
+    "dong_bat_dau": "20",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "23",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0604",
+    "chuoi_tim_duoc": "0604",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "72",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "75",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0704",
+    "chuoi_tim_duoc": "704",
+    "dong_bat_dau": "27",
+    "cot_bat_dau": "70",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "72",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0804",
+    "chuoi_tim_duoc": "0804",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "84",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "87",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0904",
+    "chuoi_tim_duoc": "904",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "9",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "11",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1004",
+    "chuoi_tim_duoc": "1004",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "49",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "52",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1104",
+    "chuoi_tim_duoc": "114",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1204",
+    "chuoi_tim_duoc": "124",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "81",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "83",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1304",
+    "chuoi_tim_duoc": "134",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "28",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "30",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1404",
+    "chuoi_tim_duoc": "144",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "17",
+    "cot_ket_thuc": "41",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1504",
+    "chuoi_tim_duoc": "1504",
+    "dong_bat_dau": "50",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "50",
+    "cot_ket_thuc": "17",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1604",
+    "chuoi_tim_duoc": "164",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1704",
+    "chuoi_tim_duoc": "174",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "56",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "58",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1804",
+    "chuoi_tim_duoc": "184",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "88",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "90",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1904",
+    "chuoi_tim_duoc": "194",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "91",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2004",
+    "chuoi_tim_duoc": "204",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "75",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "77",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2104",
+    "chuoi_tim_duoc": "2104",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "21",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2204",
+    "chuoi_tim_duoc": "224",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "36",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "38",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2304",
+    "chuoi_tim_duoc": "234",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "61",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "63",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2404",
+    "chuoi_tim_duoc": "244",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "13",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2504",
+    "chuoi_tim_duoc": "254",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "38",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "40",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2604",
+    "chuoi_tim_duoc": "2604",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2704",
+    "chuoi_tim_duoc": "2704",
+    "dong_bat_dau": "27",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "72",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2804",
+    "chuoi_tim_duoc": "2804",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "63",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "66",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2904",
+    "chuoi_tim_duoc": "294",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "87",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "89",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3004",
+    "chuoi_tim_duoc": "304",
+    "dong_bat_dau": "45",
+    "cot_bat_dau": "61",
+    "dong_ket_thuc": "45",
+    "cot_ket_thuc": "63",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0105",
+    "chuoi_tim_duoc": "0105",
+    "dong_bat_dau": "40",
+    "cot_bat_dau": "82",
+    "dong_ket_thuc": "40",
+    "cot_ket_thuc": "85",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0205",
+    "chuoi_tim_duoc": "205",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "27",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "29",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0305",
+    "chuoi_tim_duoc": "305",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "66",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "68",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0405",
+    "chuoi_tim_duoc": "405",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "98",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0505",
+    "chuoi_tim_duoc": "505",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "32",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "34",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0605",
+    "chuoi_tim_duoc": "605",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "50",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "52",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0705",
+    "chuoi_tim_duoc": "705",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "61",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "63",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0805",
+    "chuoi_tim_duoc": "0805",
+    "dong_bat_dau": "23",
+    "cot_bat_dau": "92",
+    "dong_ket_thuc": "23",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0905",
+    "chuoi_tim_duoc": "905",
+    "dong_bat_dau": "32",
+    "cot_bat_dau": "91",
+    "dong_ket_thuc": "32",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1005",
+    "chuoi_tim_duoc": "1005",
+    "dong_bat_dau": "29",
+    "cot_bat_dau": "81",
+    "dong_ket_thuc": "29",
+    "cot_ket_thuc": "84",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1105",
+    "chuoi_tim_duoc": "1105",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "75",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "78",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1205",
+    "chuoi_tim_duoc": "1205",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "34",
+    "cot_ket_thuc": "32",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1305",
+    "chuoi_tim_duoc": "135",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "28",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "30",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1405",
+    "chuoi_tim_duoc": "145",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1505",
+    "chuoi_tim_duoc": "155",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "15",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "17",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1605",
+    "chuoi_tim_duoc": "165",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "41",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1705",
+    "chuoi_tim_duoc": "175",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "55",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1805",
+    "chuoi_tim_duoc": "185",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1905",
+    "chuoi_tim_duoc": "195",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2005",
+    "chuoi_tim_duoc": "205",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "27",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "29",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2105",
+    "chuoi_tim_duoc": "2105",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "24",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2205",
+    "chuoi_tim_duoc": "225",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "71",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "73",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2305",
+    "chuoi_tim_duoc": "2305",
+    "dong_bat_dau": "25",
+    "cot_bat_dau": "68",
+    "dong_ket_thuc": "25",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2405",
+    "chuoi_tim_duoc": "2405",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "35",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "38",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2505",
+    "chuoi_tim_duoc": "255",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2605",
+    "chuoi_tim_duoc": "2605",
+    "dong_bat_dau": "32",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "32",
+    "cot_ket_thuc": "24",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2705",
+    "chuoi_tim_duoc": "275",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "31",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "33",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2805",
+    "chuoi_tim_duoc": "285",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "1",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "3",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2905",
+    "chuoi_tim_duoc": "295",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3005",
+    "chuoi_tim_duoc": "305",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "66",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "68",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3105",
+    "chuoi_tim_duoc": "3105",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0106",
+    "chuoi_tim_duoc": "0106",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "14",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0206",
+    "chuoi_tim_duoc": "206",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "85",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "87",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0306",
+    "chuoi_tim_duoc": "0306",
+    "dong_bat_dau": "32",
+    "cot_bat_dau": "2",
+    "dong_ket_thuc": "32",
+    "cot_ket_thuc": "5",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0406",
+    "chuoi_tim_duoc": "406",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "71",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "73",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0506",
+    "chuoi_tim_duoc": "0506",
+    "dong_bat_dau": "21",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "21",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0606",
+    "chuoi_tim_duoc": "606",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "13",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0706",
+    "chuoi_tim_duoc": "706",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0806",
+    "chuoi_tim_duoc": "806",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "68",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "70",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0906",
+    "chuoi_tim_duoc": "906",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "96",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1006",
+    "chuoi_tim_duoc": "1006",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "81",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "84",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1106",
+    "chuoi_tim_duoc": "116",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "98",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1206",
+    "chuoi_tim_duoc": "1206",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "59",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "62",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1306",
+    "chuoi_tim_duoc": "136",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "35",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "37",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1406",
+    "chuoi_tim_duoc": "1406",
+    "dong_bat_dau": "42",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "42",
+    "cot_ket_thuc": "98",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1506",
+    "chuoi_tim_duoc": "1506",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "15",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "18",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1606",
+    "chuoi_tim_duoc": "166",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1706",
+    "chuoi_tim_duoc": "1706",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1806",
+    "chuoi_tim_duoc": "186",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "25",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1906",
+    "chuoi_tim_duoc": "1906",
+    "dong_bat_dau": "22",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "22",
+    "cot_ket_thuc": "32",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2006",
+    "chuoi_tim_duoc": "206",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "85",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "87",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2106",
+    "chuoi_tim_duoc": "2106",
+    "dong_bat_dau": "19",
+    "cot_bat_dau": "92",
+    "dong_ket_thuc": "19",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2206",
+    "chuoi_tim_duoc": "226",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "65",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2306",
+    "chuoi_tim_duoc": "2306",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "15",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "18",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2406",
+    "chuoi_tim_duoc": "246",
+    "dong_bat_dau": "23",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "23",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2506",
+    "chuoi_tim_duoc": "256",
+    "dong_bat_dau": "18",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "18",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2606",
+    "chuoi_tim_duoc": "266",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "76",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "78",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2706",
+    "chuoi_tim_duoc": "2706",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "83",
+    "dong_ket_thuc": "34",
+    "cot_ket_thuc": "86",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2806",
+    "chuoi_tim_duoc": "286",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "74",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2906",
+    "chuoi_tim_duoc": "296",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "60",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "62",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3006",
+    "chuoi_tim_duoc": "306",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "16",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "18",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0107",
+    "chuoi_tim_duoc": "107",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "88",
+    "dong_ket_thuc": "15",
+    "cot_ket_thuc": "90",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0207",
+    "chuoi_tim_duoc": "207",
+    "dong_bat_dau": "24",
+    "cot_bat_dau": "74",
+    "dong_ket_thuc": "24",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0307",
+    "chuoi_tim_duoc": "0307",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "13",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "16",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0407",
+    "chuoi_tim_duoc": "0407",
+    "dong_bat_dau": "43",
+    "cot_bat_dau": "58",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "61",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0507",
+    "chuoi_tim_duoc": "0507",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "83",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "86",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0607",
+    "chuoi_tim_duoc": "607",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "87",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "89",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0707",
+    "chuoi_tim_duoc": "0707",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "15",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "18",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0807",
+    "chuoi_tim_duoc": "807",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0907",
+    "chuoi_tim_duoc": "0907",
+    "dong_bat_dau": "30",
+    "cot_bat_dau": "86",
+    "dong_ket_thuc": "30",
+    "cot_ket_thuc": "89",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1007",
+    "chuoi_tim_duoc": "1007",
+    "dong_bat_dau": "41",
+    "cot_bat_dau": "76",
+    "dong_ket_thuc": "41",
+    "cot_ket_thuc": "79",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1107",
+    "chuoi_tim_duoc": "117",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1207",
+    "chuoi_tim_duoc": "127",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "98",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "100",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1307",
+    "chuoi_tim_duoc": "137",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "60",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "62",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1407",
+    "chuoi_tim_duoc": "1407",
+    "dong_bat_dau": "43",
+    "cot_bat_dau": "48",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "51",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1507",
+    "chuoi_tim_duoc": "1507",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "2",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "5",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1607",
+    "chuoi_tim_duoc": "1607",
+    "dong_bat_dau": "47",
+    "cot_bat_dau": "49",
+    "dong_ket_thuc": "47",
+    "cot_ket_thuc": "52",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1707",
+    "chuoi_tim_duoc": "177",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "92",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1807",
+    "chuoi_tim_duoc": "1807",
+    "dong_bat_dau": "48",
+    "cot_bat_dau": "33",
+    "dong_ket_thuc": "48",
+    "cot_ket_thuc": "36",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1907",
+    "chuoi_tim_duoc": "1907",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2007",
+    "chuoi_tim_duoc": "2007",
+    "dong_bat_dau": "29",
+    "cot_bat_dau": "6",
+    "dong_ket_thuc": "29",
+    "cot_ket_thuc": "9",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2107",
+    "chuoi_tim_duoc": "2107",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "87",
+    "dong_ket_thuc": "15",
+    "cot_ket_thuc": "90",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2207",
+    "chuoi_tim_duoc": "2207",
+    "dong_bat_dau": "24",
+    "cot_bat_dau": "73",
+    "dong_ket_thuc": "24",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2307",
+    "chuoi_tim_duoc": "2307",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2407",
+    "chuoi_tim_duoc": "247",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "37",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "39",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2507",
+    "chuoi_tim_duoc": "257",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "9",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2607",
+    "chuoi_tim_duoc": "267",
+    "dong_bat_dau": "21",
+    "cot_bat_dau": "52",
+    "dong_ket_thuc": "21",
+    "cot_ket_thuc": "54",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2707",
+    "chuoi_tim_duoc": "277",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "59",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "61",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2807",
+    "chuoi_tim_duoc": "2807",
+    "dong_bat_dau": "40",
+    "cot_bat_dau": "52",
+    "dong_ket_thuc": "40",
+    "cot_ket_thuc": "55",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2907",
+    "chuoi_tim_duoc": "297",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "38",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "40",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3007",
+    "chuoi_tim_duoc": "307",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "65",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3107",
+    "chuoi_tim_duoc": "317",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "38",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "40",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0108",
+    "chuoi_tim_duoc": "108",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "35",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "37",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0208",
+    "chuoi_tim_duoc": "208",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "77",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "79",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0308",
+    "chuoi_tim_duoc": "308",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "20",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "22",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0408",
+    "chuoi_tim_duoc": "408",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0508",
+    "chuoi_tim_duoc": "508",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "22",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "24",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0608",
+    "chuoi_tim_duoc": "608",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0708",
+    "chuoi_tim_duoc": "708",
+    "dong_bat_dau": "31",
+    "cot_bat_dau": "61",
+    "dong_ket_thuc": "31",
+    "cot_ket_thuc": "63",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0808",
+    "chuoi_tim_duoc": "0808",
+    "dong_bat_dau": "46",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "46",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0908",
+    "chuoi_tim_duoc": "908",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "15",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "17",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1008",
+    "chuoi_tim_duoc": "108",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "35",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "37",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1108",
+    "chuoi_tim_duoc": "118",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1208",
+    "chuoi_tim_duoc": "1208",
+    "dong_bat_dau": "38",
+    "cot_bat_dau": "14",
+    "dong_ket_thuc": "38",
+    "cot_ket_thuc": "17",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1308",
+    "chuoi_tim_duoc": "138",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "82",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "84",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1408",
+    "chuoi_tim_duoc": "148",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "4",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "6",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1508",
+    "chuoi_tim_duoc": "158",
+    "dong_bat_dau": "24",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "24",
+    "cot_ket_thuc": "92",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1608",
+    "chuoi_tim_duoc": "1608",
+    "dong_bat_dau": "24",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "24",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1708",
+    "chuoi_tim_duoc": "178",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1808",
+    "chuoi_tim_duoc": "188",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "72",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "74",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1908",
+    "chuoi_tim_duoc": "198",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "98",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "100",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2008",
+    "chuoi_tim_duoc": "208",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "77",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "79",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2108",
+    "chuoi_tim_duoc": "2108",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "57",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "60",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2208",
+    "chuoi_tim_duoc": "228",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "28",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "30",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2308",
+    "chuoi_tim_duoc": "2308",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "26",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "29",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2408",
+    "chuoi_tim_duoc": "248",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "80",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "82",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2508",
+    "chuoi_tim_duoc": "258",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2608",
+    "chuoi_tim_duoc": "268",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "66",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "68",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2708",
+    "chuoi_tim_duoc": "2708",
+    "dong_bat_dau": "43",
+    "cot_bat_dau": "92",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2808",
+    "chuoi_tim_duoc": "288",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "34",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "36",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2908",
+    "chuoi_tim_duoc": "298",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "1",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "3",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3008",
+    "chuoi_tim_duoc": "308",
+    "dong_bat_dau": "6",
+    "cot_bat_dau": "20",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "22",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3108",
+    "chuoi_tim_duoc": "318",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0109",
+    "chuoi_tim_duoc": "0109",
+    "dong_bat_dau": "46",
+    "cot_bat_dau": "55",
+    "dong_ket_thuc": "46",
+    "cot_ket_thuc": "58",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0209",
+    "chuoi_tim_duoc": "209",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "54",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0309",
+    "chuoi_tim_duoc": "309",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "23",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0409",
+    "chuoi_tim_duoc": "409",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "40",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "42",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0509",
+    "chuoi_tim_duoc": "509",
+    "dong_bat_dau": "12",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0609",
+    "chuoi_tim_duoc": "0609",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "76",
+    "dong_ket_thuc": "34",
+    "cot_ket_thuc": "79",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0709",
+    "chuoi_tim_duoc": "0709",
+    "dong_bat_dau": "37",
+    "cot_bat_dau": "41",
+    "dong_ket_thuc": "37",
+    "cot_ket_thuc": "44",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0809",
+    "chuoi_tim_duoc": "0809",
+    "dong_bat_dau": "31",
+    "cot_bat_dau": "9",
+    "dong_ket_thuc": "31",
+    "cot_ket_thuc": "12",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0909",
+    "chuoi_tim_duoc": "909",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "48",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "50",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1009",
+    "chuoi_tim_duoc": "1009",
+    "dong_bat_dau": "19",
+    "cot_bat_dau": "17",
+    "dong_ket_thuc": "19",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1109",
+    "chuoi_tim_duoc": "1109",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "54",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "57",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1209",
+    "chuoi_tim_duoc": "1209",
+    "dong_bat_dau": "48",
+    "cot_bat_dau": "29",
+    "dong_ket_thuc": "48",
+    "cot_ket_thuc": "32",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1309",
+    "chuoi_tim_duoc": "1309",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "45",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1409",
+    "chuoi_tim_duoc": "149",
+    "dong_bat_dau": "27",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "9",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1509",
+    "chuoi_tim_duoc": "159",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "4",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "6",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1609",
+    "chuoi_tim_duoc": "1609",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "100",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1709",
+    "chuoi_tim_duoc": "179",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "41",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1809",
+    "chuoi_tim_duoc": "1809",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "2",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "5",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1909",
+    "chuoi_tim_duoc": "1909",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "50",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2009",
+    "chuoi_tim_duoc": "209",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "54",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2109",
+    "chuoi_tim_duoc": "219",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "17",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "19",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2209",
+    "chuoi_tim_duoc": "2209",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "90",
+    "dong_ket_thuc": "34",
+    "cot_ket_thuc": "93",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2309",
+    "chuoi_tim_duoc": "239",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "89",
+    "dong_ket_thuc": "17",
+    "cot_ket_thuc": "91",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2409",
+    "chuoi_tim_duoc": "249",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "93",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2509",
+    "chuoi_tim_duoc": "2509",
+    "dong_bat_dau": "22",
+    "cot_bat_dau": "35",
+    "dong_ket_thuc": "22",
+    "cot_ket_thuc": "38",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2609",
+    "chuoi_tim_duoc": "2609",
+    "dong_bat_dau": "23",
+    "cot_bat_dau": "83",
+    "dong_ket_thuc": "23",
+    "cot_ket_thuc": "86",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2709",
+    "chuoi_tim_duoc": "2709",
+    "dong_bat_dau": "37",
+    "cot_bat_dau": "68",
+    "dong_ket_thuc": "37",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2809",
+    "chuoi_tim_duoc": "289",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "13",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2909",
+    "chuoi_tim_duoc": "299",
+    "dong_bat_dau": "27",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "46",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3009",
+    "chuoi_tim_duoc": "309",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "23",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0110",
+    "chuoi_tim_duoc": "0110",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0210",
+    "chuoi_tim_duoc": "210",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "18",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "20",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0310",
+    "chuoi_tim_duoc": "310",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "44",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0410",
+    "chuoi_tim_duoc": "410",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "63",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "65",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0510",
+    "chuoi_tim_duoc": "510",
+    "dong_bat_dau": "1",
+    "cot_bat_dau": "49",
+    "dong_ket_thuc": "1",
+    "cot_ket_thuc": "51",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0610",
+    "chuoi_tim_duoc": "610",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "71",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0710",
+    "chuoi_tim_duoc": "0710",
+    "dong_bat_dau": "32",
+    "cot_bat_dau": "69",
+    "dong_ket_thuc": "32",
+    "cot_ket_thuc": "72",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0810",
+    "chuoi_tim_duoc": "0810",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "10",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0910",
+    "chuoi_tim_duoc": "910",
+    "dong_bat_dau": "29",
+    "cot_bat_dau": "74",
+    "dong_ket_thuc": "29",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1010",
+    "chuoi_tim_duoc": "1010",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1110",
+    "chuoi_tim_duoc": "1011",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1210",
+    "chuoi_tim_duoc": "1210",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "56",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "59",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1310",
+    "chuoi_tim_duoc": "1013",
+    "dong_bat_dau": "47",
+    "cot_bat_dau": "13",
+    "dong_ket_thuc": "44",
+    "cot_ket_thuc": "16",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1410",
+    "chuoi_tim_duoc": "1014",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "81",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "84",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1510",
+    "chuoi_tim_duoc": "1015",
+    "dong_bat_dau": "26",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "26",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1610",
+    "chuoi_tim_duoc": "1610",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "13",
+    "dong_ket_thuc": "20",
+    "cot_ket_thuc": "13",
+    "huong_tim": "XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "1710",
+    "chuoi_tim_duoc": "1710",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "51",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "54",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1810",
+    "chuoi_tim_duoc": "1018",
+    "dong_bat_dau": "13",
+    "cot_bat_dau": "24",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "27",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1910",
+    "chuoi_tim_duoc": "1910",
+    "dong_bat_dau": "29",
+    "cot_bat_dau": "73",
+    "dong_ket_thuc": "29",
+    "cot_ket_thuc": "76",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2010",
+    "chuoi_tim_duoc": "2010",
+    "dong_bat_dau": "11",
+    "cot_bat_dau": "10",
+    "dong_ket_thuc": "11",
+    "cot_ket_thuc": "13",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2110",
+    "chuoi_tim_duoc": "2110",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "74",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "77",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2210",
+    "chuoi_tim_duoc": "2210",
+    "dong_bat_dau": "19",
+    "cot_bat_dau": "91",
+    "dong_ket_thuc": "19",
+    "cot_ket_thuc": "94",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2310",
+    "chuoi_tim_duoc": "2310",
+    "dong_bat_dau": "37",
+    "cot_bat_dau": "38",
+    "dong_ket_thuc": "40",
+    "cot_ket_thuc": "41",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "2410",
+    "chuoi_tim_duoc": "1024",
+    "dong_bat_dau": "30",
+    "cot_bat_dau": "65",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "68",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "2510",
+    "chuoi_tim_duoc": "1025",
+    "dong_bat_dau": "40",
+    "cot_bat_dau": "60",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "63",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "2610",
+    "chuoi_tim_duoc": "2610",
+    "dong_bat_dau": "31",
+    "cot_bat_dau": "20",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "23",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "2710",
+    "chuoi_tim_duoc": "1027",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2810",
+    "chuoi_tim_duoc": "1028",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "33",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2910",
+    "chuoi_tim_duoc": "2910",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "4",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "7",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3010",
+    "chuoi_tim_duoc": "1030",
+    "dong_bat_dau": "46",
+    "cot_bat_dau": "1",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "4",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "3110",
+    "chuoi_tim_duoc": "1031",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "98",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0111",
+    "chuoi_tim_duoc": "111",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "54",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0211",
+    "chuoi_tim_duoc": "0211",
+    "dong_bat_dau": "44",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "44",
+    "cot_ket_thuc": "56",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0311",
+    "chuoi_tim_duoc": "311",
+    "dong_bat_dau": "9",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "9",
+    "cot_ket_thuc": "48",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0411",
+    "chuoi_tim_duoc": "411",
+    "dong_bat_dau": "25",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "25",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0511",
+    "chuoi_tim_duoc": "0511",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "47",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0611",
+    "chuoi_tim_duoc": "611",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "27",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "29",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0711",
+    "chuoi_tim_duoc": "0711",
+    "dong_bat_dau": "43",
+    "cot_bat_dau": "50",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0811",
+    "chuoi_tim_duoc": "811",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "53",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "55",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0911",
+    "chuoi_tim_duoc": "911",
+    "dong_bat_dau": "16",
+    "cot_bat_dau": "34",
+    "dong_ket_thuc": "16",
+    "cot_ket_thuc": "36",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1011",
+    "chuoi_tim_duoc": "1011",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "46",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "49",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1111",
+    "chuoi_tim_duoc": "1111",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "99",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1211",
+    "chuoi_tim_duoc": "1112",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "47",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "1311",
+    "chuoi_tim_duoc": "1311",
+    "dong_bat_dau": "46",
+    "cot_bat_dau": "7",
+    "dong_ket_thuc": "46",
+    "cot_ket_thuc": "10",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1411",
+    "chuoi_tim_duoc": "1114",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "93",
+    "dong_ket_thuc": "42",
+    "cot_ket_thuc": "96",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "1511",
+    "chuoi_tim_duoc": "1511",
+    "dong_bat_dau": "4",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "4",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1611",
+    "chuoi_tim_duoc": "1116",
+    "dong_bat_dau": "40",
+    "cot_bat_dau": "93",
+    "dong_ket_thuc": "40",
+    "cot_ket_thuc": "96",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1711",
+    "chuoi_tim_duoc": "1711",
+    "dong_bat_dau": "49",
+    "cot_bat_dau": "3",
+    "dong_ket_thuc": "49",
+    "cot_ket_thuc": "6",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1811",
+    "chuoi_tim_duoc": "1811",
+    "dong_bat_dau": "33",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "30",
+    "cot_ket_thuc": "45",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1911",
+    "chuoi_tim_duoc": "1911",
+    "dong_bat_dau": "30",
+    "cot_bat_dau": "3",
+    "dong_ket_thuc": "30",
+    "cot_ket_thuc": "6",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2011",
+    "chuoi_tim_duoc": "1120",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "23",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "26",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2111",
+    "chuoi_tim_duoc": "2111",
+    "dong_bat_dau": "40",
+    "cot_bat_dau": "92",
+    "dong_ket_thuc": "40",
+    "cot_ket_thuc": "95",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2211",
+    "chuoi_tim_duoc": "1122",
+    "dong_bat_dau": "41",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "44",
+    "cot_ket_thuc": "97",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "2311",
+    "chuoi_tim_duoc": "2311",
+    "dong_bat_dau": "28",
+    "cot_bat_dau": "39",
+    "dong_ket_thuc": "28",
+    "cot_ket_thuc": "42",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2411",
+    "chuoi_tim_duoc": "2411",
+    "dong_bat_dau": "25",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "25",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2511",
+    "chuoi_tim_duoc": "1125",
+    "dong_bat_dau": "14",
+    "cot_bat_dau": "50",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2611",
+    "chuoi_tim_duoc": "2611",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "36",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "39",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2711",
+    "chuoi_tim_duoc": "1127",
+    "dong_bat_dau": "43",
+    "cot_bat_dau": "52",
+    "dong_ket_thuc": "43",
+    "cot_ket_thuc": "55",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2811",
+    "chuoi_tim_duoc": "2811",
+    "dong_bat_dau": "38",
+    "cot_bat_dau": "84",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "87",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "2911",
+    "chuoi_tim_duoc": "1129",
+    "dong_bat_dau": "45",
+    "cot_bat_dau": "50",
+    "dong_ket_thuc": "45",
+    "cot_ket_thuc": "53",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "3011",
+    "chuoi_tim_duoc": "3011",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "93",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "96",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0112",
+    "chuoi_tim_duoc": "0112",
+    "dong_bat_dau": "45",
+    "cot_bat_dau": "49",
+    "dong_ket_thuc": "45",
+    "cot_ket_thuc": "52",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0212",
+    "chuoi_tim_duoc": "212",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "12",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "14",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0312",
+    "chuoi_tim_duoc": "312",
+    "dong_bat_dau": "27",
+    "cot_bat_dau": "32",
+    "dong_ket_thuc": "27",
+    "cot_ket_thuc": "34",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0412",
+    "chuoi_tim_duoc": "412",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "97",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0512",
+    "chuoi_tim_duoc": "0512",
+    "dong_bat_dau": "23",
+    "cot_bat_dau": "94",
+    "dong_ket_thuc": "23",
+    "cot_ket_thuc": "97",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0612",
+    "chuoi_tim_duoc": "612",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "20",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "22",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0712",
+    "chuoi_tim_duoc": "712",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "43",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0812",
+    "chuoi_tim_duoc": "0812",
+    "dong_bat_dau": "2",
+    "cot_bat_dau": "47",
+    "dong_ket_thuc": "2",
+    "cot_ket_thuc": "50",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "0912",
+    "chuoi_tim_duoc": "912",
+    "dong_bat_dau": "5",
+    "cot_bat_dau": "83",
+    "dong_ket_thuc": "5",
+    "cot_ket_thuc": "85",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1012",
+    "chuoi_tim_duoc": "1210",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "56",
+    "dong_ket_thuc": "35",
+    "cot_ket_thuc": "59",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1112",
+    "chuoi_tim_duoc": "1112",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "44",
+    "dong_ket_thuc": "6",
+    "cot_ket_thuc": "47",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "1212",
+    "chuoi_tim_duoc": "1212",
+    "dong_bat_dau": "8",
+    "cot_bat_dau": "11",
+    "dong_ket_thuc": "8",
+    "cot_ket_thuc": "14",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1312",
+    "chuoi_tim_duoc": "1213",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "26",
+    "dong_ket_thuc": "12",
+    "cot_ket_thuc": "29",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1412",
+    "chuoi_tim_duoc": "1412",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "96",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "99",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1512",
+    "chuoi_tim_duoc": "1215",
+    "dong_bat_dau": "22",
+    "cot_bat_dau": "43",
+    "dong_ket_thuc": "19",
+    "cot_ket_thuc": "46",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1612",
+    "chuoi_tim_duoc": "1216",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "85",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "88",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "1712",
+    "chuoi_tim_duoc": "1712",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "62",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "65",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "1812",
+    "chuoi_tim_duoc": "1812",
+    "dong_bat_dau": "41",
+    "cot_bat_dau": "57",
+    "dong_ket_thuc": "38",
+    "cot_ket_thuc": "60",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "1912",
+    "chuoi_tim_duoc": "1219",
+    "dong_bat_dau": "15",
+    "cot_bat_dau": "26",
+    "dong_ket_thuc": "15",
+    "cot_ket_thuc": "29",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2012",
+    "chuoi_tim_duoc": "2012",
+    "dong_bat_dau": "17",
+    "cot_bat_dau": "21",
+    "dong_ket_thuc": "14",
+    "cot_ket_thuc": "24",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "2112",
+    "chuoi_tim_duoc": "2112",
+    "dong_bat_dau": "39",
+    "cot_bat_dau": "22",
+    "dong_ket_thuc": "39",
+    "cot_ket_thuc": "25",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2212",
+    "chuoi_tim_duoc": "2212",
+    "dong_bat_dau": "34",
+    "cot_bat_dau": "34",
+    "dong_ket_thuc": "31",
+    "cot_ket_thuc": "37",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "2312",
+    "chuoi_tim_duoc": "2312",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "28",
+    "dong_ket_thuc": "13",
+    "cot_ket_thuc": "31",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "2412",
+    "chuoi_tim_duoc": "1224",
+    "dong_bat_dau": "7",
+    "cot_bat_dau": "61",
+    "dong_ket_thuc": "7",
+    "cot_ket_thuc": "64",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2512",
+    "chuoi_tim_duoc": "2512",
+    "dong_bat_dau": "19",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "19",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2612",
+    "chuoi_tim_duoc": "1226",
+    "dong_bat_dau": "10",
+    "cot_bat_dau": "64",
+    "dong_ket_thuc": "10",
+    "cot_ket_thuc": "67",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2712",
+    "chuoi_tim_duoc": "2712",
+    "dong_bat_dau": "3",
+    "cot_bat_dau": "42",
+    "dong_ket_thuc": "3",
+    "cot_ket_thuc": "45",
+    "huong_tim": "NGANG"
+  },
+  {
+    "ngay_thang_ddmm": "2812",
+    "chuoi_tim_duoc": "1228",
+    "dong_bat_dau": "42",
+    "cot_bat_dau": "95",
+    "dong_ket_thuc": "45",
+    "cot_ket_thuc": "98",
+    "huong_tim": "CHÉO XUỐNG"
+  },
+  {
+    "ngay_thang_ddmm": "2912",
+    "chuoi_tim_duoc": "2912",
+    "dong_bat_dau": "35",
+    "cot_bat_dau": "57",
+    "dong_ket_thuc": "32",
+    "cot_ket_thuc": "60",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "3012",
+    "chuoi_tim_duoc": "3012",
+    "dong_bat_dau": "44",
+    "cot_bat_dau": "27",
+    "dong_ket_thuc": "41",
+    "cot_ket_thuc": "30",
+    "huong_tim": "CHÉO LÊN"
+  },
+  {
+    "ngay_thang_ddmm": "3112",
+    "chuoi_tim_duoc": "3112",
+    "dong_bat_dau": "41",
+    "cot_bat_dau": "22",
+    "dong_ket_thuc": "38",
+    "cot_ket_thuc": "25",
+    "huong_tim": "CHÉO LÊN"
+  }
+]
